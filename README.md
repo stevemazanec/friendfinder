@@ -1,1 +1,1 @@
-# friendfinder
+Friendfinder is an app that asks users to take a short, 10 question personality quiz. Then, it checks the users answers against the users in the database, and matches the user with the most compatible other user in the database. This app uses node, express, JSON, API's, javascript, and jQuery to run.
